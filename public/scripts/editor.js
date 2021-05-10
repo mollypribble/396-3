@@ -1,4 +1,4 @@
-const baseURL = 'http://localhost:8081';
+const baseURL = '';//'http://localhost:8081';
 
 // global variable storing all doctors
 let allDocs;
